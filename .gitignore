@@ -1,0 +1,8 @@
+# JetBrains files
+.idea
+
+# Mac files
+.DS_Store
+
+# Other
+.vscode
