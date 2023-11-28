@@ -1,6 +1,6 @@
 # Solidity 101
 
-The premier solidity course taught by BU Blockchain (@wezabis for the 23-24 year)
+A course on solidity taught by BU Blockchain (@wezabis for the 23-24 year)
 
 #### This is what chatGPT says solidity is: 
 
