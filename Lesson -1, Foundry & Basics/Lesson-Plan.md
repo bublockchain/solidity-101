@@ -6,6 +6,10 @@
 
 ## Installing Foundry
 
+> __Note for Windows users:__  
+> Terminal and Powershell are not terminals. If you haven't already, install [Git Bash](https://git-scm.com/downloads).
+> After installing, you can right click in a folder, and select "Git Bash here." This will work with all of the commands below. 
+
 Open your terminal and run this command
 ```
 curl -L https://foundry.paradigm.xyz | bash
