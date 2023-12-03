@@ -39,5 +39,7 @@ Given its purpose and design, Solidity enables the creation of a wide range of d
 
 # Credits and Resources
 Created By: [@Wezabis](https://gtihub.com/wjorgensen)
+
 Taught By: [@Wezabis](https://gtihub.com/wjorgensen) 23/24
+
 Resources: [Crypto Zombies](https://cryptozombies.io), [Patrick Collins](https://www.youtube.com/@PatrickAlphaC)
