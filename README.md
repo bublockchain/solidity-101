@@ -1,8 +1,6 @@
 # Solidity 101
 
-A course on solidity taught by BU Blockchain (@wezabis for the 23-24 year)
-
-#### This is what chatGPT says solidity is: 
+A course on solidity taught by BU Blockchain
 
 Solidity is a high-level programming language designed for developing smart contracts that run on the Ethereum blockchain. It is statically typed, supports inheritance, libraries, and complex user-defined types among other features. Solidity is influenced by C++, Python, and JavaScript and is designed to target the Ethereum Virtual Machine (EVM).
 
@@ -39,6 +37,7 @@ Given its purpose and design, Solidity enables the creation of a wide range of d
 |   ├── ER-721
 ``` 
 
-
-# Note for Fall-23
-We will start with a modified lesson 3 covering foundry as well as solidity basics
+# Credits and Resources
+Created By: [@Wezabis](https://gtihub.com/wjorgensen)
+Taught By: [@Wezabis](https://gtihub.com/wjorgensen) 23/24
+Resources: [Crypto Zombies](https://cryptozombies.io), [Patrick Collins](https://www.youtube.com/@PatrickAlphaC)
