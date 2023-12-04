@@ -17,19 +17,20 @@ Given its purpose and design, Solidity enables the creation of a wide range of d
 |   ├── Functions
 |   ├── Structs
 |   ├── Mappings
+|   ├── Modifiers
 ``` 
 ```
 ├── Foundry Basics
 |   ├── Installation
 |   ├── Anvil
 |   ├── Testing
-|   ├── Deploying
+|   ├── Scripts
 ``` 
 ```
-├── Oracles
+├── Chainlink Oracles
 |   ├── Price Aggregator
 |   ├── VRF
-|   ├── Chainlink
+|   ├── Automation
 ``` 
 ```
 ├── OpenZeppelin
