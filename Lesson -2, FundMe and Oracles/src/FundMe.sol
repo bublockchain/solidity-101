@@ -3,7 +3,7 @@ pragma solidity ^0.8.20;
 import {AggregatorV3Interface} from "node_modules/@chainlink/contracts/src/v0.8/interfaces/AggregatorV3Interface.sol";
 
 contract FundMe {
-    uint256 public MINIMUM_USD;
+    uint256 public MINIMUM_USD = 5e18;
 
     address[] public funders;
     mapping(address => uint) public addressToAmountFunded;
@@ -19,9 +19,8 @@ contract FundMe {
         _;
     }
 
-    constructor(uint256 _minimumUsd) {
+    constructor() {
         owner = msg.sender;
-        MINIMUM_USD = _minimumUsd * 1e18;
     }
 
     function fund() public payable {
