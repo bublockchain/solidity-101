@@ -8,7 +8,7 @@ contract FundMeScript is Script {
         vm.startBroadcast();
         FundMe fund = new FundMe(5);
         fund.fund{value: 1e18}();
-        console2.log(address(fund).balance);
         vm.stopBroadcast();
+        console2.log(address(fund).balance);
     }
 }

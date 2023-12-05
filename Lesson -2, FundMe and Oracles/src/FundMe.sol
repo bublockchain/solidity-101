@@ -10,8 +10,12 @@ contract FundMe {
 
     address public owner;
 
+    error OnlyOwner();
+
     modifier onlyOwner() {
-        require(msg.sender == owner);
+        if (msg.sender != owner) {
+            revert OnlyOwner();
+        }
         _;
     }
 
