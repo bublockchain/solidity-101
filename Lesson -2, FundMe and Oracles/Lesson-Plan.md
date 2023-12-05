@@ -1,8 +1,10 @@
 # Lesson -2
 
-[Slidedeck](https://docs.google.com/presentation/d/1yqEW0564v9CnwOyB_ZTccEWcSgS5uZBJOOixesa6wjA/edit?usp=sharing)
-[Chainlink Price Feeds](https://docs.chain.link/data-feeds/price-feeds/addresses?network=ethereum&page=1&search=ETH+%2F+USD)
-[Foundry Docs](https://book.getfoundry.sh)
+## [Slidedeck](https://docs.google.com/presentation/d/1yqEW0564v9CnwOyB_ZTccEWcSgS5uZBJOOixesa6wjA/edit?usp=sharing)
+
+## [Chainlink Price Feeds](https://docs.chain.link/data-feeds/price-feeds/addresses?network=ethereum&page=1&search=ETH+%2F+USD)
+
+## [Foundry Docs](https://book.getfoundry.sh)
 
 # Creating FundMe.sol
 
