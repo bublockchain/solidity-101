@@ -29,8 +29,6 @@ Given its purpose and design, Solidity enables the creation of a wide range of d
 ```
 ├── Chainlink Oracles
 |   ├── Price Aggregator
-|   ├── VRF
-|   ├── Automation
 ``` 
 ```
 ├── OpenZeppelin
@@ -39,7 +37,7 @@ Given its purpose and design, Solidity enables the creation of a wide range of d
 ``` 
 
 # Credits and Resources
-Created By: [@Wezabis](https://gtihub.com/wjorgensen)
+Created By: [@Wezabis](https://github.com/wjorgensen)
 
 Taught By: [@Wezabis](https://gtihub.com/wjorgensen) 23/24
 
